@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi! 👋
+
+CS student at UVic. 
+
+- 🔭 I’m currently working on **graduating**
+- 🌱 I’m currently learning **data mining, ML, advanced algorithms & data structures**
+- 💬 Ask me about **web dev**
+- 😄 Pronouns: **she/her**
+- ⚡ Fun fact: **I love gaming!**
 
 <!--
 **fluffyponyy/fluffyponyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
