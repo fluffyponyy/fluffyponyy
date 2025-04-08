@@ -1,12 +1,9 @@
-### Hi! 👋
+### Hi! I'm Ana.
 
-CS student at UVic. 
+CompSci student at UVic. 
 
-- 🔭 I’m currently working on **graduating**
-- 🌱 I’m currently learning **data mining, ML, advanced algorithms & data structures**
-- 💬 Ask me about **web dev**
-- 😄 Pronouns: **she/her**
-- ⚡ Fun fact: **I love gaming!**
+- I'm interested in **web dev** & **machine learning** 🖥️
+- My other hobbies include **drawing** & **learning Japanese** 🌸
 
 <!--
 **fluffyponyy/fluffyponyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
