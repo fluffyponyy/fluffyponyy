@@ -1,9 +1,23 @@
-### Hi! I'm Ana.
+### Hi! I'm Ana ✨
 
-CompSci student at UVic. 
+## Interests 🖥️
+- Web development
+- Web design & accessibility
+- Machine learning for data science
+- Music analysis w/ML
 
-- I'm interested in **web dev** & **machine learning** 🖥️
-- My other hobbies include **drawing** & **learning Japanese** 🌸
+## Languages & Frameworks
+- Python
+- Javascript
+- React Native
+- Java
+- C
+
+## Other Interests 🌸
+- Drawing & crafts
+- Weightlifting
+- Reading
+- Learning Japanese
 
 <!--
 **fluffyponyy/fluffyponyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
